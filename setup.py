@@ -5,7 +5,7 @@ from wechat import VERSION
 
 url="https://github.com/jalu017/youchat"
 
-long_description="Wechat Python SDK"
+long_description="youchat Python SDK"
 
 setup(name="youhat",
       version=VERSION,
